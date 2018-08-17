@@ -1,0 +1,26 @@
+
+.calculator {
+    width: 300px;
+    border: 1px solid gray;
+    padding: 30px;
+    background-color: goldenrod;
+}
+
+.result {
+    width: 90%;
+    text-align: right;
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: orangered;
+}
+
+input {
+    color:white;
+}
+
+input[type="button"] {
+    width: 80px;
+    height: 70px;
+    margin: 5px;
+    background:orangered;
+}
